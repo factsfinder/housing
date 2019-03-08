@@ -4,15 +4,15 @@ self.__precacheManifest = [
     "url": "/housing/static/js/runtime~main.c9f18174.js"
   },
   {
-    "revision": "34282e166cce6bb647b8",
-    "url": "/housing/static/js/main.34282e16.chunk.js"
+    "revision": "5f2ae1b754408f0fef01",
+    "url": "/housing/static/js/main.5f2ae1b7.chunk.js"
   },
   {
     "revision": "d533013c9f97e28ed807",
     "url": "/housing/static/js/2.d533013c.chunk.js"
   },
   {
-    "revision": "8cb6ff6e3759b5e8c950132a80eeda91",
+    "revision": "657fd6961b0c814612a9896f5f741f45",
     "url": "/housing/index.html"
   }
 ];
