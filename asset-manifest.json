@@ -1,11 +1,13 @@
 {
-  "main.js": "/housing/static/js/main.5f2ae1b7.chunk.js",
-  "main.js.map": "/housing/static/js/main.5f2ae1b7.chunk.js.map",
-  "runtime~main.js": "/housing/static/js/runtime~main.c9f18174.js",
-  "runtime~main.js.map": "/housing/static/js/runtime~main.c9f18174.js.map",
-  "static/js/2.d533013c.chunk.js": "/housing/static/js/2.d533013c.chunk.js",
-  "static/js/2.d533013c.chunk.js.map": "/housing/static/js/2.d533013c.chunk.js.map",
+  "main.css": "/housing/static/css/main.4b57a84c.chunk.css",
+  "main.js": "/housing/static/js/main.9dadee7a.chunk.js",
+  "main.js.map": "/housing/static/js/main.9dadee7a.chunk.js.map",
+  "runtime~main.js": "/housing/static/js/runtime~main.f13834ff.js",
+  "runtime~main.js.map": "/housing/static/js/runtime~main.f13834ff.js.map",
+  "static/js/2.c74b5e02.chunk.js": "/housing/static/js/2.c74b5e02.chunk.js",
+  "static/js/2.c74b5e02.chunk.js.map": "/housing/static/js/2.c74b5e02.chunk.js.map",
   "index.html": "/housing/index.html",
-  "precache-manifest.bd814d806cafa1bd131d3864a3711db7.js": "/housing/precache-manifest.bd814d806cafa1bd131d3864a3711db7.js",
-  "service-worker.js": "/housing/service-worker.js"
+  "precache-manifest.4e5429d5f12ec2a33663f3de6dd80896.js": "/housing/precache-manifest.4e5429d5f12ec2a33663f3de6dd80896.js",
+  "service-worker.js": "/housing/service-worker.js",
+  "static/css/main.4b57a84c.chunk.css.map": "/housing/static/css/main.4b57a84c.chunk.css.map"
 }
